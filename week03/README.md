@@ -78,6 +78,6 @@
      return 0;
    }
    gcc myname.c
-   ls
+   ll
    ./a.out
    ```
