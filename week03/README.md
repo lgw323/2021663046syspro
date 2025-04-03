@@ -90,3 +90,4 @@
    ll
    ./a.out
    ```
+   ![학번이름](images/week03.png)
